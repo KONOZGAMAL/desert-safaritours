@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    scroll-behavior: smooth;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    @apply capitalize;
+  }
+  
+  body{
+    position: relative;
+    width: 100%;
+  }
+
+
+  img{
+    max-width: 100%;
+    height: auto;
+    transition-duration:5s;
+  }
+
+  .ant-collapse-header-text{
+    color: #2C75BA;
+  }

@@ -1,0 +1,19 @@
+.menu-parent{
+    border-radius: 0!important;
+    -webkit-border-radius: 0!important;
+    -moz-border-radius: 0!important;
+    -ms-border-radius: 0!important;
+    -o-border-radius: 0!important;
+   box-shadow: none!important ;
+   background-color: #f5f4f4!important ;
+}
+
+.menu{
+    border-radius: 0!important;
+    -webkit-border-radius: 0!important;
+    -moz-border-radius: 0!important;
+    -ms-border-radius: 0!important;
+    -o-border-radius: 0!important;
+    padding-bottom: 5px !important;
+    font-size: 17px !important;
+}
